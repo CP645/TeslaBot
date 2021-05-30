@@ -7,6 +7,7 @@
   * colorama
   * Python3
 ##Install:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foob
 ```bash
 pip install foobar
 ```
