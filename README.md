@@ -6,21 +6,16 @@
   * requests
   * colorama
   * Python3
-## Install:
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foob
-```bash
-pip install foobar
-```
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 ```bash
-pip install foobar
+apt-get install python3
+pip3 install googlesearch
+pip3 install requests
+pip3 install  colorama
 ```
 
 ## Usage
