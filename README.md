@@ -21,7 +21,7 @@ pip3 install  colorama
 
 
 ## ScreenShots
-<img src="https://i.ibb.co/0s17GtY/2021-04-13-11-00.png">**
+<img src="https://i.ibb.co/0s17GtY/2021-04-13-11-00.png">
 
 ## License
 Author: Cyberpunk645
