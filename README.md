@@ -17,7 +17,11 @@ pip3 install googlesearch
 pip3 install requests
 pip3 install  colorama
 ```
-<h3>OR:/h3>
+<h3>OR:</h3>
+```bash
+chmod +x install.sh
+./install.sh
+```
 
 
 
