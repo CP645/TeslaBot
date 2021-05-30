@@ -7,6 +7,6 @@
   * colorama
   * Python3
 ##Install:
-'''shell
+'''bash
 echo"frfd"
 '''
