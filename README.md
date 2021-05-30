@@ -1,8 +1,8 @@
 # TeslaBot
 
-<img src="https://i.ibb.co/0s17GtY/2021-04-13-11-00.png">
-## Requirements:
-  * googlesearch
+
+## Requirements
+* googlesearch
   * requests
   * colorama
   * Python3
@@ -28,10 +28,8 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+## ScreenShots
+<img src="https://i.ibb.co/0s17GtY/2021-04-13-11-00.png">**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
