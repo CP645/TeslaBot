@@ -7,6 +7,6 @@
   * colorama
   * Python3
 ##Install:
-'''bash
-echo"frfd"
-'''
+```bash
+pip install foobar
+```
