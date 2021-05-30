@@ -17,6 +17,7 @@ pip3 install googlesearch
 pip3 install requests
 pip3 install  colorama
 ```
+<h3>OR:/h3>
 
 
 
